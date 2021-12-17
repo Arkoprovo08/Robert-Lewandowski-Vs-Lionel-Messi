@@ -1,5 +1,5 @@
 # Robert-Lewandowski-Vs-Lionel-Messi
-# Complete Analysis on Robert Lewandowski Vs Lionel Messi
+## Complete Analysis on Robert Lewandowski Vs Lionel Messi
 
 As we know there has been a lot of talk about this years Ballon d'or and we know that Lionel Messi and Robert Lewandowski were the main contenders by far.
 While Messi won his 7th Ballon d'or there were a lot of conflicts that Lewandowski deserved it for his exceptional performances in the past 2 seasons.
